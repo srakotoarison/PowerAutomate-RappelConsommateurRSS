@@ -71,7 +71,7 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 
 <p align="center">
-  <a href="#" style="background:#4361ee; padding:12px 25px; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
+  <a href="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" style="background:#4361ee; padding:12px 25px; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
     📥 Télécharger le flux Power Automate
   </a>
 </p>
@@ -81,24 +81,22 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 > Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.
 
 
----
+--
 ## 🚀 Installation
 1. Télécharger les fichiers `.zip` depuis le dossier **flows**
 2. Aller dans **Power Automate → Solutions → Importer**
 3. Mettre à jour les connexions (RSS, Outlook…)
 4. Modifier les adresses e-mail de réception
 
----
+--
 ## 💬 Suggestions et améliorations
 Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels.
 
 N’hésitez pas à partager vos idées !
 
 
-
-
 <p align="center">
-<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Email" width="100px">
+> <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Email" width="250px">
   Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
 </p>
 ## Installation
