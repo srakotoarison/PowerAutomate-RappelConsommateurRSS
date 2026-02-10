@@ -28,10 +28,6 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 </p>
 
 
-
-
-
-
 ![Email HTML](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)
 *Modèle fictif d’e-mail envoyé lors d’un rappel*
 
