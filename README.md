@@ -30,11 +30,13 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 ### 🤖 Fonctionnement du flux
 
 <ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
-  <li><strong>🔍 Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.</strong> </li>
-  <li><strong>🎯 Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés.</strong> </li>
-  <li><strong>📨 Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.</strong> </li>
+  <li><strong>Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.</strong> </li>
+  <li><strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés.</strong> </li>
+  <li><strong>Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.</strong> </li>
 
 
+<div style="background:#F3F2F1; padding:200px; border-radius:8px;">
+  <p>
 
 ⚠️ **Important**
  Ce projet utilise le flux RSS officiel de RappelConso.
@@ -54,35 +56,18 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 <table>
 <tr>
-<td width="33%">
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.PNG" width="100%">
+<td width="50%"  align="center"> 
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.PNG" width="45%">
   <h3 align="center">Récupération du flux RSS</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
-<td width="66%">
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" width="100%">
+<td width="50%"  align="center">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="45%">
   <h3 align="center">Filtrage des alertes bébé</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
-<td width="33%">
-  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="33%">
-  <h3 align="center">Email HTML envoyé automatiquement</h3>
-  <p align="center">Un mail clair et lisible est envoyé automatiquement</p>
-</td>
 </tr>
 </table>
-
-
-
-
-#### 🟦 Fonctionnalités principales
-
-
-
-<div style="border-radius: 12px; padding: 20px; border: 1px solid #e1e4e8; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-  <h3>🚀 Projet Power Automate</h3>
-  <p>Suivi automatique des rappels produits pour bébés via le flux RSS RappelConso.</p>
-</div>
 
 
 <p align="center">
@@ -92,74 +77,9 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 </p>
 
 
-<p align="center">
-  <img src="https://svg-badge.vercel.app/api/badge?text=Power%20Automate&colorA=f72585&colorB=7209b7&colorC=3a0ca3" />
-</p>
-
-
 > ### 💡 Astuce  
 > Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.
 
-## 🚨 — Fonctionnement du flux — 🚨
-
-<p align="center">
-  <img src="https://via.placeholder.com/350x200" width="45%">
-  <img src="https://via.placeholder.com/350x200" width="45%">
-</p>
-
-
-
-<div align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="30%" style="border-radius:10px; margin:0 10px;">
-  <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
-  <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
-</div>
-
-
-<p>
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Dashboard" width="48%" />
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="RSS" width="48%" />
-</p>
-
-
-
-<p>
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 32%; text-align: center;">
-    <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Dashboard" width="48%">
-    <p><em>Dashboard Power Automate</em></p>
-  </div>
-
-  <div style="width: 32%; text-align: center;">
-    <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Filtrage" width="48%">
-    <p><em>Bloc de filtrage</em></p>
-  </div>
-</p>
-
-  <div style="width: 32%; text-align: center;">
-    <img src="./docs/screenshot-email.png" alt="Email" width="100%">
-    <p><em>Email HTML généré</em></p>
-  </div>
-</div>
-
-![Email HTML](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)
-*Modèle fictif d’e-mail envoyé lors d’un rappel*
-
----
-## 📁 Contenu du dépôt
-```
-📦 baby-product-recall-alert
- ┣ 📂 flows
- ┃ ┣ 📄 flux_principal.zip
- ┃ ┗ 📄 flux_secondaire.zip
- ┣ 📂 docs
- ┃ ┣ 🖼️ screenshot-dashboard.png
- ┃ ┣ 🖼️ screenshot-rss.png
- ┃ ┣ 🖼️ screenshot-filter.png
- ┃ ┗ 🖼️ screenshot-email.png
- ┣ 📄 email_template.html
- ┗ 📄 README.md
-```
 
 ---
 ## 🚀 Installation
@@ -175,14 +95,10 @@ Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendr
 N’hésitez pas à partager vos idées !
 
 
-![image](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)
-
-This technique could be extended with further levels. The key is how to structure the data that feeds the menu, using key attributes to drive functionality and formatting.
-
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Email" width="100%">
+<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Email" width="100px">
   Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
 </p>
 ## Installation
