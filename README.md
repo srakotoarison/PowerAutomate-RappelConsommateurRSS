@@ -27,6 +27,54 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
     Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux RSS officiel <strong>RappelConso</strong>.  Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien </p>
 
 
+
+### 🤖 Fonctionnement du flux
+
+<!-- BLOC PRINCIPAL -->
+<div style="background:#F3F2F1; padding:20px; border-radius:8px;">
+
+  <ul style="border-left: 4px solid #4CC9F0; padding-left: 15px; list-style:none;">
+
+<li style="margin-bottom:15px;">
+  <strong style="color:#0078D4;">📡 Lecture RSS</strong><br>
+  Récupération automatique et régulière du flux officiel <strong>RappelConso</strong>.
+</li>
+
+<li style="margin-bottom:15px;">
+  <strong style="color:#5C2D91;">🎯 Filtrage intelligent</strong><br>
+  Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>.
+</li>
+
+<li style="margin-bottom:5px;">
+  <strong style="color:#4CC9F0;">📨 Email HTML</strong><br>
+  Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.
+</li>
+
+  </ul>
+
+</div>
+
+<br>
+
+<!-- BLOC IMPORTANT -->
+<div style="background:#FFF8C5; border-left:6px solid #FFD33D; padding:12px 15px; border-radius:6px;">
+  <strong>⚠️ Important :</strong> Ce projet utilise le flux RSS officiel de <strong>RappelConso</strong>.
+</div>
+
+<br>
+
+<!-- BLOC ASTUCE -->
+<div style="background:#fff3cd; border-left:5px solid #ffec99; padding:10px 15px; border-radius:6px;">
+  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).
+</div>
+
+
+
+
+
+
+
+
 ### 🤖 Fonctionnement du flux
 
 <ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
