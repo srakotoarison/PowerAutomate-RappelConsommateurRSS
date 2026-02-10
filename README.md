@@ -5,7 +5,7 @@
 <h2 align="center">Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
 
 
-<p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ </p>
+<p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ Automatiser la veille des rappels produits pour bébés</p>
 
 ### 🌱 Contexte
 Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
@@ -17,7 +17,18 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 <div style="background:#F3F2F1; padding:20px; border-radius:8px;">
   <p>
     Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux RSS officiel <strong>RappelConso</strong>.  Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien </p>
-   
+
+
+### 🤖 Fonctionnement du flux
+
+#### 1. Récupération du flux RSS
+![Bloc RSS Power Automate](./docs/screenshot-rss.png)
+*Capture fictive du connecteur RSS dans Power Automate*
+
+### 2. Filtrage des rappels liés aux produits bébés
+![Filtrage Power Automate](./docs/screenshot-filter.png)
+*Exemple visuel fictif du filtrage dans Power Automate*
+### 3. Envoi d’un e-mail HTML personnalisé
 
 ### 🟦 Fonctionnalités principales
 
@@ -51,6 +62,14 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 ---
 
+> ⚠️ **Important**
+> Ce projet utilise le flux RSS officiel de RappelConso.
+``
+>
+> <div style="background:#fff3cd; padding:12px 18px; border-left:5px solid #ffec99;">
+  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, lait, jouets…)
+</div>
+``
 
 ### 📸 Aperçus des flux Power Automate
 
@@ -67,17 +86,17 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 <tr>
 <td width="33%">
   <img src="https://via.placeholder.com/300x180" width="100%">
-  <h3 align="center">1. Lecture RSS</h3>
+  <h3 align="center">Récupération du flux RSS</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
 <td width="33%">
-  <img src="https://github.com/srakotoarison/image/blob/main/Core.png" width="100%">
-  <h3 align="center">2. Filtrage</h3>
+  <img src="https://github.com/srakotoarison/image/blob/main/Core.png" width="33%">
+  <h3 align="center">Filtrage des alertes bébé</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
 <td width="33%">
-  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="100%">
-  <h3 align="center">3. Email HTML</h3>
+  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="33%">
+  <h3 align="center">Email HTML envoyé automatiquement</h3>
   <p align="center">Un mail clair et lisible est envoyé automatiquement</p>
 </td>
 </tr>
@@ -95,6 +114,28 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 </div>
 
 ---
+
+
+<ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
+  <li><strong>Étape 2 :</strong> </li>
+  <li><strong>Étape 3 :</strong> </li>
+</ul>
+
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    https://via.placeholder.com/300x150
+    <h4 align="center">Lecture RSS</h4>
+  </div>
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    https://via.placeholder.com/300x150
+    <h4 align="center">Filtrage</h4>
+  </div>
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    https://via.placeholder.com/300x150
+    <h4 align="center">Email HTML</h4>
+  </div>
+</div>
 
 ### 📁 Structure du projet
 
@@ -120,64 +161,12 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 
 
+
 <p align="center">
   <a href="#" style="background:#4361ee; padding:12px 25px; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
     📥 Télécharger le flux Power Automate
   </a>
 </p>
-
-
-
-<table>
-<tr>
-<td><img src="https://via.placeholder.com/250x150" /></td>
-<td><img src="https://via.placeholder.com/250x150" /></td>
-<td><img src="https://via.placeholder.com/250x150" /></td>
-</tr>
-</table>
-
-
-> ⚠️ **Important**
-> Ce projet utilise le flux RSS officiel de RappelConso.
-``
->
-> <div style="background:#fff3cd; padding:12px 18px; border-left:5px solid #ffec99;">
-  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, lait, jouets…)
-</div>
-``
-
-
-
-<h2 align="center">
-  🔄 <img src="https://gist.githubusercontent.com/catdad/56bfad..."
-</h2>
-
-
-<ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
-  <li><strong>Étape 1 :</strong> Récupération du flux RSS</li>
-  <li><strong>Étape 2 :</strong> Filtrage des alertes bébé</li>
-  <li><strong>Étape 3 :</strong> Email HTML envoyé automatiquement</li>
-</ul>
-
-
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-    https://via.placeholder.com/300x150
-    <h4 align="center">Lecture RSS</h4>
-  </div>
-  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-    https://via.placeholder.com/300x150
-    <h4 align="center">Filtrage</h4>
-  </div>
-  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-    https://via.placeholder.com/300x150
-    <h4 align="center">Email HTML</h4>
-  </div>
-</div>
-
-
-
-
 
 
 
@@ -209,25 +198,7 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 
 
-# 🔔 Protéger nos tout‑petits avec Power Automate
 
-## Automatiser la veille des rappels produits pour bébés
-
-![Dashboard Power Automate](./docs/screenshot-dashboard.png)
-*Exemple fictif de tableau de bord Power Automate*
-
----
-
-## 🤖 Fonctionnement du flux
-
-### 1. Récupération du flux RSS
-![Bloc RSS Power Automate](./docs/screenshot-rss.png)
-*Capture fictive du connecteur RSS dans Power Automate*
-
-### 2. Filtrage des rappels liés aux produits bébés
-![Filtrage Power Automate](./docs/screenshot-filter.png)
-*Exemple visuel fictif du filtrage dans Power Automate*
-### 3. Envoi d’un e-mail HTML personnalisé
 
 <p>
   <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Dashboard" width="48%" />
