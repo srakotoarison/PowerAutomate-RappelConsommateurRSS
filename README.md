@@ -22,7 +22,7 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 *Exemple visuel fictif du filtrage dans Power Automate*
 
 ### 3. Envoi d’un e-mail HTML personnalisé
-![Email HTML](./docs/screenshot-email.png)
+![Email HTML](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)
 *Modèle fictif d’e-mail envoyé lors d’un rappel*
 
 ---
@@ -53,18 +53,6 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels.
 
 N’hésitez pas à partager vos idées !
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
