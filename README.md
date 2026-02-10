@@ -28,6 +28,25 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 </p>
 
 
+
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 32%; text-align: center;">
+    <img src="[./docs/screenshot-dashboard.png](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)" alt="Dashboard" width="100%">
+    <p><em>Dashboard Power Automate</em></p>
+  </div>
+
+  <div style="width: 32%; text-align: center;">
+    <img src="[./docs/screenshot-filter.png](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)" alt="Filtrage" width="100%">
+    <p><em>Bloc de filtrage</em></p>
+  </div>
+
+  <div style="width: 32%; text-align: center;">
+    <img src="./docs/screenshot-email.png" alt="Email" width="100%">
+    <p><em>Email HTML généré</em></p>
+  </div>
+</div>
+
 ![Email HTML](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)
 *Modèle fictif d’e-mail envoyé lors d’un rappel*
 
