@@ -1,23 +1,23 @@
 <p align="center">
-   <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Rappel-Conso-Le-site-des-alertes-de-produits-dangereux.png" width="250px" />
+   <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" width="80px" />
 
 </p>
 
 <h2 align="center">
-      <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" width="25px" />
 Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
+<br>
+
 
 
 <p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ Automatiser la veille des rappels produits pour bébés. Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
 
-### 🌱 Contexte
-Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
+<br>
+      <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Rappel-Conso-Le-site-des-alertes-de-produits-dangereux.png" width="125px" />
 
- Protéger nos tout‑petits avec Power Automate
-Automatiser la veille des rappels produits liés aux bébés
-🌱 Contexte
-Avec les récents rappels de produits pour bébés — notamment certains lots de laits infantiles (Gallia, Guigoz, etc.) — j’ai réalisé, en tant que jeune parent, à quel point il est important d’être informé rapidement et de manière fiable.
-Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
+### 🌱 Contexte
+Avec la multiplication des rappels de produits pour bébés — notamment certains lots de laits infantiles comme Gallia ou Guigoz — j’ai réalisé, en tant que jeune parent, combien il est essentiel d’être informé rapidement et de manière fiable. La sécurité des tout‑petits ne laisse aucune place au hasard, et manquer une alerte peut avoir des conséquences importantes.
+Pour éviter toute omission et gagner en sérénité, j’ai décidé d’automatiser cette veille. Ce projet repose sur Power Automate, qui récupère automatiquement les alertes du flux RSS officiel de RappelConso et nous notifie dès qu’un rappel touche un produit destiné aux bébés.
+Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidien.
 
 
 ### 🌈 Vue d'ensemble
@@ -62,10 +62,7 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 <br>
 
-<!-- BLOC ASTUCE -->
-<div style="background:#fff3cd; border-left:5px solid #ffec99; padding:10px 15px; border-radius:6px;">
-  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso
-</div>
+
 
 
 ### 📸 Aperçus des flux Power Automate
@@ -107,7 +104,7 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 --
 ## 💬 Suggestions et améliorations
-Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels.N’hésitez pas à partager vos idées !
+Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels ous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.N’hésitez pas à partager vos idées !
 
 <p align="center">
   Développé avec ❤️ par Sammy —  <a href="#">Voir mes autres projets</a>
