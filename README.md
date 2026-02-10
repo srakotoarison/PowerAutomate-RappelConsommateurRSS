@@ -63,54 +63,13 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 </td>
 </tr>
 </table>
-<div align="center">
-  <img src="https://via.placeholder.com/350x200/0078D4/FFFFFF?text=Dashboard" width="45%" />
-  <img src="https://via.placeholder.com/350x200/5C2D91/FFFFFF?text=Filtrage" width="45%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://via.placeholder.com/350x200/4CC9F0/FFFFFF?text=Notification+HTML" width="45%" />
-  <img src="https://via.placeholder.com/350x200/0078D4/FFFFFF?text=Flux+RSS" width="45%" />
-</div>
-
----
 
 
 
 
+#### 🟦 Fonctionnalités principales
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-    https://via.placeholder.com/300x150
-    <h4 align="center">Lecture RSS</h4>
-  </div>
-  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-    https://via.placeholder.com/300x150
-    <h4 align="center">Filtrage</h4>
-  </div>
-  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-    https://via.placeholder.com/300x150
-    <h4 align="center">Email HTML</h4>
-  </div>
-</div>
 
-### 📁 Structure du projet
-
-### 🟦 Fonctionnalités principales
-
-<div style="display:flex; gap:20px;">
-
-  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
-    <h3 align="center">🔍 Lecture RSS</h3>
-    <p align="center">
-      <img src="https://via.placeholder.com/300x150/0078D4/FFFFFF?text=RSS" />
-    </p>
-
-<p align="center">
-  <img src="https://svg-badge.vercel.app/api/gradient?text=Power Automate Project&width=600&height=120&fontsize=45&color1=f72585&color2=4361ee&color3=4cc9f0" />
-</p>
 
 <div style="border-radius: 12px; padding: 20px; border: 1px solid #e1e4e8; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
   <h3>🚀 Projet Power Automate</h3>
@@ -118,16 +77,11 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 </div>
 
 
-
-
-
 <p align="center">
   <a href="#" style="background:#4361ee; padding:12px 25px; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
     📥 Télécharger le flux Power Automate
   </a>
 </p>
-
-
 
 
 <p align="center">
