@@ -14,13 +14,13 @@ Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
 <br>
       <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Rappel-Conso-Le-site-des-alertes-de-produits-dangereux.png" width="125px" />
 
-### Contexte
+#### Contexte
 Avec la multiplication des rappels de produits pour bébés — notamment certains lots de laits infantiles comme Gallia ou Guigoz — j’ai réalisé, en tant que jeune parent, combien il est essentiel d’être informé rapidement et de manière fiable. La sécurité des tout‑petits ne laisse aucune place au hasard, et manquer une alerte peut avoir des conséquences importantes.
 Pour éviter toute omission et gagner en sérénité, j’ai décidé d’automatiser cette veille. Ce projet repose sur Power Automate, qui récupère automatiquement les alertes du flux RSS officiel de RappelConso et nous notifie dès qu’un rappel touche un produit destiné aux bébés.
 Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidien.
 
 
-### Vue d'ensemble
+#### Vue d'ensemble
 
 <div style="background:#F3F2F1; padding:20px; border-radius:8px;">
   <p>
@@ -28,7 +28,7 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 
 
 
-### Fonctionnement du flux
+#### Fonctionnement du flux
 
 <!-- BLOC PRINCIPAL -->
 <div style="background:#F3F2F1; padding:20px; border-radius:8px;">
@@ -65,7 +65,7 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 
 
 
-### 📸 Aperçus des flux Power Automate
+#### 📸 Aperçus des flux Power Automate
 
 <div align="center" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
   <p></p>
@@ -96,14 +96,14 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 </p>
 
 
-## 🚀 Installation
+#### 🚀 Installation
 1. Télécharger les fichiers `.zip` depuis le dossier **flows**
 2. Aller dans **Power Automate → Solutions → Importer**
 3. Mettre à jour les connexions (RSS, Outlook…)
 4. Modifier les adresses e-mail de réception
 
 --
-## 💬 Suggestions et améliorations
+#### 💬 Suggestions et améliorations
 Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels ous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.N’hésitez pas à partager vos idées !
 
 <p align="center">
