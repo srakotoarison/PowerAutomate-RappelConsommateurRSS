@@ -13,7 +13,7 @@ Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
 ### 🌱 Contexte
 Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
 
-🔔 Protéger nos tout‑petits avec Power Automate
+ Protéger nos tout‑petits avec Power Automate
 Automatiser la veille des rappels produits liés aux bébés
 🌱 Contexte
 Avec les récents rappels de produits pour bébés — notamment certains lots de laits infantiles (Gallia, Guigoz, etc.) — j’ai réalisé, en tant que jeune parent, à quel point il est important d’être informé rapidement et de manière fiable.
@@ -36,17 +36,16 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
   <ul style="border-left: 4px solid #4CC9F0; padding-left: 15px; list-style:none;">
 
 <li style="margin-bottom:15px;">
-  <strong style="color:#0078D4;">📡 Lecture RSS</strong><br>
-  Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
+  <strong style="color:#0078D4;">Lecture RSS : </strong> Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
 </li>
 
 <li style="margin-bottom:15px;">
-  <strong style="color:#5C2D91;">🎯 Filtrage intelligent</strong><br>
+  <strong style="color:#5C2D91;"> Filtrage intelligent: </strong>
   Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés..
 </li>
 
 <li style="margin-bottom:5px;">
-  <strong style="color:#4CC9F0;">📨 Email HTML</strong><br>
+  <strong style="color:#4CC9F0;">Email HTML :</strong>
   Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
 </li>
 
@@ -100,10 +99,6 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 </p>
 
 
-
-
-
---
 ## 🚀 Installation
 1. Télécharger les fichiers `.zip` depuis le dossier **flows**
 2. Aller dans **Power Automate → Solutions → Importer**
@@ -115,6 +110,6 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels.N’hésitez pas à partager vos idées !
 
 <p align="center">
-  Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
+  Développé avec ❤️ par Sammy —  <a href="#">Voir mes autres projets</a>
 </p>
 
