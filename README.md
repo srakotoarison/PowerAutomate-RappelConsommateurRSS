@@ -2,28 +2,31 @@
   <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" />
 </p>
 
-<h1 align="center">🔔 Surveillance automatique des rappels produits bébé</h1>
-<p align="center">Une solution low-code basée sur Power Automate, inspirée du design Microsoft et pensée pour la tranquillité d'esprit des parents.</p>
-
---
+<h2 align="center">Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
 
 
+<p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ </p>
+
+### 🌱 Contexte
+Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
 
 
-## 🌈 Vue d'ensemble
+<p align="center">
+  <img src="https://via.placeholder.com/800x250/2d89ef/ffffff?text=Header+Image" width="80%">
+</p>
+
+### 🌈 Vue d'ensemble
 
 <div style="background:#F3F2F1; padding:20px; border-radius:8px;">
   <p>
-    Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux officiel <strong>RappelConso</strong>.
-  </p>
-  <p>
-    Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien tout en proposant un design moderne inspiré de la <strong>Microsoft Fluent Design System</strong>.
-  </p>
+    Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux RSS officiel <strong>RappelConso</strong>.  Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien </p>
+   
+
+
+<div style="padding: 20px; background: linear-gradient(90deg, #4cc9f0, #4361ee); border-radius: 10px; color: white; text-align: center;">
 </div>
 
----
-
-## 🟦 Fonctionnalités principales
+### 🟦 Fonctionnalités principales
 
 <div style="display:flex; gap:20px;">
 
@@ -55,7 +58,7 @@
 
 ---
 
-## 📸 Aperçus des flux Power Automate
+### 📸 Aperçus des flux Power Automate
 
 <div align="center">
   <img src="https://via.placeholder.com/350x200/0078D4/FFFFFF?text=Dashboard" width="45%" />
@@ -71,9 +74,9 @@
 
 ---
 
-## 📁 Structure du projet
+### 📁 Structure du projet
 
-## 🟦 Fonctionnalités principales
+### 🟦 Fonctionnalités principales
 
 <div style="display:flex; gap:20px;">
 
@@ -93,9 +96,7 @@
 </div>
 
 
-<div style="padding: 20px; background: linear-gradient(90deg, #4cc9f0, #4361ee); border-radius: 10px; color: white; text-align: center;">
-  <h2>🔔 Rappels Produits Bébé — Automatisés avec Power Automate</h2>
-</div>
+
 
 
 <p align="center">
@@ -103,7 +104,6 @@
     📥 Télécharger le flux Power Automate
   </a>
 </p>
-
 
 
 
@@ -156,12 +156,7 @@
 </div>
 
 
-<h1 align="center">🔔 Protéger nos tout‑petits</h1>
-<p align="center">Automatisation Power Automate pour surveiller les rappels RappelConso</p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x250/2d89ef/ffffff?text=Header+Image" width="80%">
-</p>
 
 <hr style="border: 0; border-top: 1px dashed #bbb;" />
 <div style="border:1px solid #e1e4e8; border-radius:8px; padding:16px;">
@@ -233,10 +228,7 @@
 *Exemple fictif de tableau de bord Power Automate*
 
 ---
-## 🌱 Contexte
-Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
 
----
 ## 🤖 Fonctionnement du flux
 
 ### 1. Récupération du flux RSS
