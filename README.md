@@ -32,12 +32,12 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 32%; text-align: center;">
-    <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Dashboard" width="100%">
+    <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Dashboard" width="48%">
     <p><em>Dashboard Power Automate</em></p>
   </div>
 
   <div style="width: 32%; text-align: center;">
-    <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Filtrage" width="100%">
+    <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Filtrage" width="48%">
     <p><em>Bloc de filtrage</em></p>
   </div>
 
