@@ -1,3 +1,182 @@
+<p align="center">
+  <img src="https://via.placeholder.com/900x200/0078D4/FFFFFF?text=Proteger+nos+tout-petits+avec+Power+Automate" />
+</p>
+
+<h1 align="center">🔔 Surveillance automatique des rappels produits bébé</h1>
+<p align="center">Une solution low-code basée sur Power Automate, inspirée du design Microsoft et pensée pour la tranquillité d'esprit des parents.</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" />
+</p>
+
+
+
+## 🌈 Vue d'ensemble
+
+<div style="background:#F3F2F1; padding:20px; border-radius:8px;">
+  <p>
+    Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux officiel <strong>RappelConso</strong>.
+  </p>
+  <p>
+    Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien tout en proposant un design moderne inspiré de la <strong>Microsoft Fluent Design System</strong>.
+  </p>
+</div>
+
+---
+
+## 🟦 Fonctionnalités principales
+
+<div style="display:flex; gap:20px;">
+
+  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
+    <h3 align="center">🔍 Lecture RSS</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300x150/0078D4/FFFFFF?text=RSS" />
+    </p>
+    <p>Récupération automatique du flux officiel RappelConso.</p>
+  </div>
+
+  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
+    <h3 align="center">🎯 Filtrage intelligent</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300x150/5C2D91/FFFFFF?text=Filtrage" />
+    </p>
+    <p>Détection des rappels liés aux produits destinés aux bébés.</p>
+  </div>
+
+  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
+    <h3 align="center">📨 Email HTML</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300x150/4CC9F0/FFFFFF?text=Email+HTML" />
+    </p>
+    <p>Envoi d’une notification claire et responsive.</p>
+  </div>
+
+</div>
+
+---
+
+## 📸 Aperçus des flux Power Automate
+
+<div align="center">
+  <img src="https://via.placeholder.com/350x200/0078D4/FFFFFF?text=Dashboard" width="45%" />
+  <img src="https://via.placeholder.com/350x200/5C2D91/FFFFFF?text=Filtrage" width="45%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://via.placeholder.com/350x200/4CC9F0/FFFFFF?text=Notification+HTML" width="45%" />
+  <img src="https://via.placeholder.com/350x200/0078D4/FFFFFF?text=Flux+RSS" width="45%" />
+</div>
+
+---
+
+## 📁 Structure du projet
+
+## 🌈 Vue d'ensemble
+
+<div style="background:#F3F2F1; padding:20px; border-radius:8px;">
+  <p>
+    Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux officiel <strong>RappelConso</strong>.
+  </p>
+  <p>
+    Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien tout en proposant un design moderne inspiré de la <strong>Microsoft Fluent Design System</strong>.
+  </p>
+</div>
+
+---
+
+## 🟦 Fonctionnalités principales
+
+<div style="display:flex; gap:20px;">
+
+  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
+    <h3 align="center">🔍 Lecture RSS</h3>
+    <p align="center">
+      <img src="https://via.placeholder.com/300x150/0078D4/FFFFFF?text=RSS" />
+    </p>
+
+<p align="center">
+  <img src="https://svg-badge.vercel.app/api/gradient?text=Power Automate Project&width=600&height=120&fontsize=45&color1=f72585&color2=4361ee&color3=4cc9f0" />
+</p>
+
+<div style="border-radius: 12px; padding: 20px; border: 1px solid #e1e4e8; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+  <h3>🚀 Projet Power Automate</h3>
+  <p>Suivi automatique des rappels produits pour bébés via le flux RSS RappelConso.</p>
+</div>
+
+
+<div style="padding: 20px; background: linear-gradient(90deg, #4cc9f0, #4361ee); border-radius: 10px; color: white; text-align: center;">
+  <h2>🔔 Rappels Produits Bébé — Automatisés avec Power Automate</h2>
+</div>
+
+
+<p align="center">
+  <a href="#" style="background:#4361ee; padding:12px 25px; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
+    📥 Télécharger le flux Power Automate
+  </a>
+</p>
+
+
+![Demo Flow](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
+``
+
+
+<p align="center">
+  Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
+</p>
+
+
+<table>
+<tr>
+<td><img src="https://via.placeholder.com/250x150" /></td>
+<td><img src="https://via.placeholder.com/250x150" /></td>
+<td><img src="https://via.placeholder.com/250x150" /></td>
+</tr>
+</table>
+
+
+> ⚠️ **Important**
+> Ce projet utilise le flux RSS officiel de RappelConso.
+``
+>
+> <div style="background:#fff3cd; padding:12px 18px; border-left:5px solid #ffec99;">
+  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, lait, jouets…)
+</div>
+``
+
+
+
+<h2 align="center">
+  🔄 <img src="https://gist.githubusercontent.com/catdad/56bfad..."
+</h2>
+
+
+<ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
+  <li><strong>Étape 1 :</strong> Récupération du flux RSS</li>
+  <li><strong>Étape 2 :</strong> Filtrage des alertes bébé</li>
+  <li><strong>Étape 3 :</strong> Email HTML envoyé automatiquement</li>
+</ul>
+
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    https://via.placeholder.com/300x150
+    <h4 align="center">Lecture RSS</h4>
+  </div>
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    https://via.placeholder.com/300x150
+    <h4 align="center">Filtrage</h4>
+  </div>
+  <div style="flex: 1; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    https://via.placeholder.com/300x150
+    <h4 align="center">Email HTML</h4>
+  </div>
+</div>
+
 
 <h1 align="center">🔔 Protéger nos tout‑petits</h1>
 <p align="center">Automatisation Power Automate pour surveiller les rappels RappelConso</p>
