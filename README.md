@@ -10,6 +10,11 @@
 ### 🌱 Contexte
 Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
 
+🔔 Protéger nos tout‑petits avec Power Automate
+Automatiser la veille des rappels produits liés aux bébés
+🌱 Contexte
+Avec les récents rappels de produits pour bébés — notamment certains lots de laits infantiles (Gallia, Guigoz, etc.) — j’ai réalisé, en tant que jeune parent, à quel point il est important d’être informé rapidement et de manière fiable.
+Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 
 ### 🌈 Vue d'ensemble
@@ -172,31 +177,14 @@ Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendr
 N’hésitez pas à partager vos idées !
 
 
-
-
-
-# Power Automate : RSS Rappel Consommateur
-
-🔔 Protéger nos tout‑petits avec Power Automate
-Automatiser la veille des rappels produits liés aux bébés
-🌱 Contexte
-Avec les récents rappels de produits pour bébés — notamment certains lots de laits infantiles (Gallia, Guigoz, etc.) — j’ai réalisé, en tant que jeune parent, à quel point il est important d’être informé rapidement et de manière fiable.
-Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
-
-
-
-
-
 ![image](https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)
 
 This technique could be extended with further levels. The key is how to structure the data that feeds the menu, using key attributes to drive functionality and formatting.
 
 
 
-
 <p align="center">
-  ![Demo Flow](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
-
+<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Email" width="100%">
   Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
 </p>
 ## Installation
