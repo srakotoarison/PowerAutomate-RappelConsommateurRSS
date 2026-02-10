@@ -1,9 +1,11 @@
-# Power Automate : RSS-Rappel-Consommateur-RSS
+# Power Automate : RSS Rappel Consommateur
 
-
-# Nested Menu Navigation example
-
-## About
+🔔 Protéger nos tout‑petits avec Power Automate
+Automatiser la veille des rappels produits liés aux bébés
+🌱 Contexte
+Avec les récents rappels de produits pour bébés — notamment certains lots de laits infantiles (Gallia, Guigoz, etc.) — j’ai réalisé, en tant que jeune parent, à quel point il est important d’être informé rapidement et de manière fiable.
+Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
+## A propos
 Creating a two-level navigation menu in Power Apps, without using a nested gallery 😱
 
 Nested galleries are a common technique to create this kind of functionality. However, nested galleries demand increased loading resource and therefore can produce increased load times/performance issues.
