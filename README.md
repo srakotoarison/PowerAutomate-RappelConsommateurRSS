@@ -11,9 +11,6 @@
 Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
 
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x250/2d89ef/ffffff?text=Header+Image" width="80%">
-</p>
 
 ### 🌈 Vue d'ensemble
 
@@ -21,10 +18,6 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
   <p>
     Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux RSS officiel <strong>RappelConso</strong>.  Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien </p>
    
-
-
-<div style="padding: 20px; background: linear-gradient(90deg, #4cc9f0, #4361ee); border-radius: 10px; color: white; text-align: center;">
-</div>
 
 ### 🟦 Fonctionnalités principales
 
@@ -58,8 +51,37 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 ---
 
+
 ### 📸 Aperçus des flux Power Automate
 
+<h2 align="center">✨ Fonctionnement du flux ✨</h2>
+
+<div align="center" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
+  <h3>🔔 Une vraie aide au quotidien</h3>
+  <p>Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
+</div>
+
+
+
+<table>
+<tr>
+<td width="33%">
+  <img src="https://via.placeholder.com/300x180" width="100%">
+  <h3 align="center">1. Lecture RSS</h3>
+  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
+</td>
+<td width="33%">
+  <img src="https://github.com/srakotoarison/image/blob/main/Core.png" width="100%">
+  <h3 align="center">2. Filtrage</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+<td width="33%">
+  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="100%">
+  <h3 align="center">3. Email HTML</h3>
+  <p align="center">Un mail clair et lisible est envoyé automatiquement</p>
+</td>
+</tr>
+</table>
 <div align="center">
   <img src="https://via.placeholder.com/350x200/0078D4/FFFFFF?text=Dashboard" width="45%" />
   <img src="https://via.placeholder.com/350x200/5C2D91/FFFFFF?text=Filtrage" width="45%" />
@@ -98,13 +120,11 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 
 
-
 <p align="center">
   <a href="#" style="background:#4361ee; padding:12px 25px; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
     📥 Télécharger le flux Power Automate
   </a>
 </p>
-
 
 
 
@@ -158,40 +178,9 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 
 
-<hr style="border: 0; border-top: 1px dashed #bbb;" />
-<div style="border:1px solid #e1e4e8; border-radius:8px; padding:16px;">
-  <h3>🚀 Objectif</h3>
-  <p>Créer une veille automatique des rappels pour bébés via Power Automate.</p>
-</div>
-
-<h2 align="center">✨ Fonctionnement du flux ✨</h2>
-
-<div align="center" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
-  <h3>🔔 Une vraie aide au quotidien</h3>
-  <p>Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
-</div>
 
 
 
-<table>
-<tr>
-<td width="33%">
-  <img src="https://via.placeholder.com/300x180" width="100%">
-  <h3 align="center">1. Lecture RSS</h3>
-  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
-</td>
-<td width="33%">
-  <img src="https://github.com/srakotoarison/image/blob/main/Core.png" width="100%">
-  <h3 align="center">2. Filtrage</h3>
-  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
-</td>
-<td width="33%">
-  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="100%">
-  <h3 align="center">3. Email HTML</h3>
-  <p align="center">Un mail clair et lisible est envoyé automatiquement</p>
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://svg-badge.vercel.app/api/badge?text=Power%20Automate&colorA=f72585&colorB=7209b7&colorC=3a0ca3" />
