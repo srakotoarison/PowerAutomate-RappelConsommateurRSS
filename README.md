@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" />
+   <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Rappel-Conso-Le-site-des-alertes-de-produits-dangereux.png" width="250px" />
+
 </p>
 
-<h2 align="center">Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
+<h2 align="center">
+      <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" width="25px" />
+Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
 
 
 <p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ Automatiser la veille des rappels produits pour bébés. Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
@@ -52,12 +55,12 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 <table>
 <tr>
 <td width="33%">
-  <img src="https://via.placeholder.com/300x180" width="100%">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.PNG" width="100%">
   <h3 align="center">Récupération du flux RSS</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
-<td width="33%">
-  <img src="https://github.com/srakotoarison/image/blob/main/Core.png" width="33%">
+<td width="66%">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" width="100%">
   <h3 align="center">Filtrage des alertes bébé</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
@@ -111,11 +114,6 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
   <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
   <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
 </div>
-
-
-
-
-
 
 
 <p>
