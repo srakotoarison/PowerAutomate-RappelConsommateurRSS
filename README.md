@@ -105,13 +105,7 @@
 </p>
 
 
-![Demo Flow](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
-``
 
-
-<p align="center">
-  Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
-</p>
 
 
 <table>
@@ -334,6 +328,13 @@ This solution features a component that acts as a two-level navigation menu, usi
 
 This technique could be extended with further levels. The key is how to structure the data that feeds the menu, using key attributes to drive functionality and formatting.
 
+![Demo Flow](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
+``
+
+
+<p align="center">
+  Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
+</p>
 ## Installation
 Download the NestedNavigationMenu_1_0_0_2.zip file, then follow <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-update-export-solutions">this Microsoft Learn Article</a> to import the solution into your chosen environment.
 
