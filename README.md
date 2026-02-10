@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/0078D4/FFFFFF?text=Proteger+nos+tout-petits+avec+Power+Automate" />
+  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" />
 </p>
 
 <h1 align="center">🔔 Surveillance automatique des rappels produits bébé</h1>
 <p align="center">Une solution low-code basée sur Power Automate, inspirée du design Microsoft et pensée pour la tranquillité d'esprit des parents.</p>
 
----
+--
 
-<p align="center">
-  <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" />
-</p>
 
 
 
@@ -75,19 +72,6 @@
 ---
 
 ## 📁 Structure du projet
-
-## 🌈 Vue d'ensemble
-
-<div style="background:#F3F2F1; padding:20px; border-radius:8px;">
-  <p>
-    Ce projet utilise <strong>Power Automate</strong> pour automatiser la surveillance des rappels de produits potentiellement dangereux pour les bébés via le flux officiel <strong>RappelConso</strong>.
-  </p>
-  <p>
-    Il illustre la capacité du low-code à résoudre des besoins concrets du quotidien tout en proposant un design moderne inspiré de la <strong>Microsoft Fluent Design System</strong>.
-  </p>
-</div>
-
----
 
 ## 🟦 Fonctionnalités principales
 
@@ -208,12 +192,12 @@
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
 <td width="33%">
-  <img src="https://via.placeholder.com/300x180" width="100%">
+  <img src="https://github.com/srakotoarison/image/blob/main/Core.png" width="100%">
   <h3 align="center">2. Filtrage</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
 <td width="33%">
-  <img src="https://via.placeholder.com/300x180" width="100%">
+  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="100%">
   <h3 align="center">3. Email HTML</h3>
   <p align="center">Un mail clair et lisible est envoyé automatiquement</p>
 </td>
@@ -238,17 +222,13 @@
 
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
+  <img src="https://github.com/srakotoarison/image/blob/main/Power%20Automate.png" width="30%" style="border-radius:10px; margin:0 10px;">
   <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
   <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
 </div>
 
 
 
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
-![HTML Email](https://img.shields.io/badge/Email-HTML-blueviolet?style=for-the-badge)
 
 
 # 🔔 Protéger nos tout‑petits avec Power Automate
