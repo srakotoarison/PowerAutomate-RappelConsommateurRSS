@@ -1,4 +1,77 @@
 
+<h1 align="center">🔔 Protéger nos tout‑petits</h1>
+<p align="center">Automatisation Power Automate pour surveiller les rappels RappelConso</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x250/2d89ef/ffffff?text=Header+Image" width="80%">
+</p>
+
+<hr style="border: 0; border-top: 1px dashed #bbb;" />
+<div style="border:1px solid #e1e4e8; border-radius:8px; padding:16px;">
+  <h3>🚀 Objectif</h3>
+  <p>Créer une veille automatique des rappels pour bébés via Power Automate.</p>
+</div>
+
+<h2 align="center">✨ Fonctionnement du flux ✨</h2>
+
+<div align="center" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
+  <h3>🔔 Une vraie aide au quotidien</h3>
+  <p>Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
+</div>
+
+
+
+<table>
+<tr>
+<td width="33%">
+  <img src="https://via.placeholder.com/300x180" width="100%">
+  <h3 align="center">1. Lecture RSS</h3>
+  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
+</td>
+<td width="33%">
+  <img src="https://via.placeholder.com/300x180" width="100%">
+  <h3 align="center">2. Filtrage</h3>
+  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+</td>
+<td width="33%">
+  <img src="https://via.placeholder.com/300x180" width="100%">
+  <h3 align="center">3. Email HTML</h3>
+  <p align="center">Un mail clair et lisible est envoyé automatiquement</p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://svg-badge.vercel.app/api/badge?text=Power%20Automate&colorA=f72585&colorB=7209b7&colorC=3a0ca3" />
+</p>
+
+
+> ### 💡 Astuce  
+> Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.
+
+## 🚨 — Fonctionnement du flux — 🚨
+
+<p align="center">
+  <img src="https://via.placeholder.com/350x200" width="45%">
+  <img src="https://via.placeholder.com/350x200" width="45%">
+</p>
+
+
+
+<div align="center">
+  <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
+  <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
+  <img src="https://via.placeholder.com/300x180" width="30%" style="border-radius:10px; margin:0 10px;">
+</div>
+
+
+
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
+![HTML Email](https://img.shields.io/badge/Email-HTML-blueviolet?style=for-the-badge)
+
+
 # 🔔 Protéger nos tout‑petits avec Power Automate
 
 ## Automatiser la veille des rappels produits pour bébés
