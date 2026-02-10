@@ -24,8 +24,7 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 <p>
   <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Dashboard" width="48%" />
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG
-    " alt="RSS" width="48%" />
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="RSS" width="48%" />
 </p>
 
 
