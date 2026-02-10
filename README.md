@@ -5,7 +5,7 @@
 <h2 align="center">Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
 
 
-<p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ Automatiser la veille des rappels produits pour bébés</p>
+<p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ Automatiser la veille des rappels produits pour bébés. Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
 
 ### 🌱 Contexte
 Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
@@ -21,51 +21,16 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 ### 🤖 Fonctionnement du flux
 
-#### 1. Récupération du flux RSS
-![Bloc RSS Power Automate](./docs/screenshot-rss.png)
-*Capture fictive du connecteur RSS dans Power Automate*
+<ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
+  <li><strong>🔍 Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.</strong> </li>
+  <li><strong>🎯 Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés.</strong> </li>
+  <li><strong>📨 Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.</strong> </li>
 
-### 2. Filtrage des rappels liés aux produits bébés
-![Filtrage Power Automate](./docs/screenshot-filter.png)
-*Exemple visuel fictif du filtrage dans Power Automate*
-### 3. Envoi d’un e-mail HTML personnalisé
 
-### 🟦 Fonctionnalités principales
 
-<div style="display:flex; gap:20px;">
+⚠️ **Important**
+ Ce projet utilise le flux RSS officiel de RappelConso.
 
-  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
-    <h3 align="center">🔍 Lecture RSS</h3>
-    <p align="center">
-      <img src="https://via.placeholder.com/300x150/0078D4/FFFFFF?text=RSS" />
-    </p>
-    <p>Récupération automatique du flux officiel RappelConso.</p>
-  </div>
-
-  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
-    <h3 align="center">🎯 Filtrage intelligent</h3>
-    <p align="center">
-      <img src="https://via.placeholder.com/300x150/5C2D91/FFFFFF?text=Filtrage" />
-    </p>
-    <p>Détection des rappels liés aux produits destinés aux bébés.</p>
-  </div>
-
-  <div style="flex:1; border:1px solid #E1E4E8; border-radius:10px; padding:20px; background:white;">
-    <h3 align="center">📨 Email HTML</h3>
-    <p align="center">
-      <img src="https://via.placeholder.com/300x150/4CC9F0/FFFFFF?text=Email+HTML" />
-    </p>
-    <p>Envoi d’une notification claire et responsive.</p>
-  </div>
-
-</div>
-
----
-
-> ⚠️ **Important**
-> Ce projet utilise le flux RSS officiel de RappelConso.
-``
->
 > <div style="background:#fff3cd; padding:12px 18px; border-left:5px solid #ffec99;">
   <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, lait, jouets…)
 </div>
@@ -73,11 +38,8 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 
 ### 📸 Aperçus des flux Power Automate
 
-<h2 align="center">✨ Fonctionnement du flux ✨</h2>
-
 <div align="center" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
-  <h3>🔔 Une vraie aide au quotidien</h3>
-  <p>Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
+  <p></p>
 </div>
 
 
@@ -116,10 +78,7 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 ---
 
 
-<ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
-  <li><strong>Étape 2 :</strong> </li>
-  <li><strong>Étape 3 :</strong> </li>
-</ul>
+
 
 
 <div style="display: flex; gap: 20px;">
