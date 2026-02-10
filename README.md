@@ -1,3 +1,75 @@
+
+# 🔔 Protéger nos tout‑petits avec Power Automate
+
+## Automatiser la veille des rappels produits pour bébés
+
+![Dashboard Power Automate](./docs/screenshot-dashboard.png)
+*Exemple fictif de tableau de bord Power Automate*
+
+---
+## 🌱 Contexte
+Avec les récents rappels de produits pour bébés, il est devenu essentiel d'être informé rapidement. Ce projet utilise **Power Automate** pour envoyer automatiquement les alertes RSS du site **RappelConso** lorsqu'un rappel concerne des produits destinés aux tout‑petits.
+
+---
+## 🤖 Fonctionnement du flux
+
+### 1. Récupération du flux RSS
+![Bloc RSS Power Automate](./docs/screenshot-rss.png)
+*Capture fictive du connecteur RSS dans Power Automate*
+
+### 2. Filtrage des rappels liés aux produits bébés
+![Filtrage Power Automate](./docs/screenshot-filter.png)
+*Exemple visuel fictif du filtrage dans Power Automate*
+
+### 3. Envoi d’un e-mail HTML personnalisé
+![Email HTML](./docs/screenshot-email.png)
+*Modèle fictif d’e-mail envoyé lors d’un rappel*
+
+---
+## 📁 Contenu du dépôt
+```
+📦 baby-product-recall-alert
+ ┣ 📂 flows
+ ┃ ┣ 📄 flux_principal.zip
+ ┃ ┗ 📄 flux_secondaire.zip
+ ┣ 📂 docs
+ ┃ ┣ 🖼️ screenshot-dashboard.png
+ ┃ ┣ 🖼️ screenshot-rss.png
+ ┃ ┣ 🖼️ screenshot-filter.png
+ ┃ ┗ 🖼️ screenshot-email.png
+ ┣ 📄 email_template.html
+ ┗ 📄 README.md
+```
+
+---
+## 🚀 Installation
+1. Télécharger les fichiers `.zip` depuis le dossier **flows**
+2. Aller dans **Power Automate → Solutions → Importer**
+3. Mettre à jour les connexions (RSS, Outlook…)
+4. Modifier les adresses e-mail de réception
+
+---
+## 💬 Suggestions et améliorations
+Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels.
+
+N’hésitez pas à partager vos idées !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Power Automate : RSS Rappel Consommateur
 
 🔔 Protéger nos tout‑petits avec Power Automate
