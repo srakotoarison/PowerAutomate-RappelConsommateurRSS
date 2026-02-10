@@ -37,17 +37,17 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 <li style="margin-bottom:15px;">
   <strong style="color:#0078D4;">📡 Lecture RSS</strong><br>
-  Récupération automatique et régulière du flux officiel <strong>RappelConso</strong>.
+  Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
 </li>
 
 <li style="margin-bottom:15px;">
   <strong style="color:#5C2D91;">🎯 Filtrage intelligent</strong><br>
-  Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>.
+  Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés..
 </li>
 
 <li style="margin-bottom:5px;">
   <strong style="color:#4CC9F0;">📨 Email HTML</strong><br>
-  Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.
+  Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
 </li>
 
   </ul>
@@ -65,34 +65,9 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 <!-- BLOC ASTUCE -->
 <div style="background:#fff3cd; border-left:5px solid #ffec99; padding:10px 15px; border-radius:6px;">
-  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).
+  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso
 </div>
 
-
-
-
-
-
-
-
-### 🤖 Fonctionnement du flux
-
-<ul style="border-left: 3px solid #4cc9f0; padding-left: 20px; list-style: none;">
-  <li><strong>Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.</strong> </li>
-  <li><strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés.</strong> </li>
-  <li><strong>Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.</strong> </li>
-
-
-<div style="background:#F3F2F1; padding:200px; border-radius:8px;">
-  <p>
-
-⚠️ **Important**
- Ce projet utilise le flux RSS officiel de RappelConso.
-
-> <div style="background:#fff3cd; padding:12px 18px; border-left:5px solid #ffec99;">
-  <strong>💡 Conseil :</strong> Vous pouvez ajouter d’autres filtres (allergènes, lait, jouets…)
-</div>
-``
 
 ### 📸 Aperçus des flux Power Automate
 
@@ -105,12 +80,12 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 <table>
 <tr>
 <td width="50%"  align="center"> 
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.PNG" width="45%">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.PNG" width="75%">
   <h3 align="center">Récupération du flux RSS</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
 <td width="50%"  align="center">
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="45%">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail2.PNG" width="75%">
   <h3 align="center">Filtrage des alertes bébé</h3>
   <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
 </td>
@@ -125,8 +100,7 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 </p>
 
 
-> ### 💡 Astuce  
-> Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.
+
 
 
 --
@@ -138,17 +112,9 @@ Pour ne rien laisser passer, j’ai décidé d’automatiser cette veille.
 
 --
 ## 💬 Suggestions et améliorations
-Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels.
-
-N’hésitez pas à partager vos idées !
-
+Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels.N’hésitez pas à partager vos idées !
 
 <p align="center">
-> <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Email" width="250px">
   Développé avec ❤️ par Sammy — <a href="#">Voir mes autres projets</a>
 </p>
-## Installation
-Download the NestedNavigationMenu_1_0_0_2.zip file, then follow <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-update-export-solutions">this Microsoft Learn Article</a> to import the solution into your chosen environment.
 
-## Licence
-This is free to use, no Power Platform licensing required.
