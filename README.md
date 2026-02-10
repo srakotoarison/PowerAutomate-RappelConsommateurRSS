@@ -23,8 +23,9 @@ Avec les récents rappels de produits pour bébés, il est devenu essentiel d'ê
 ### 3. Envoi d’un e-mail HTML personnalisé
 
 <p>
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)" alt="Dashboard" width="48%" />
-  <img src="[https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG)" alt="RSS" width="48%" />
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG" alt="Dashboard" width="48%" />
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.PNG
+    " alt="RSS" width="48%" />
 </p>
 
 
