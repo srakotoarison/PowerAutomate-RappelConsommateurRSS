@@ -60,7 +60,7 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 
 
 
-#### 📸 Aperçus du flux Power Automate
+#### 📸 Aperçus de la solution
 
 <div align="center" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
   <p></p>
@@ -72,13 +72,13 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 <tr>
 <td width="50%"  align="center"> 
   <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.png" width="75%" >
-  <h3 align="center">Récupération du flux RSS</h3>
-  <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
+  <p align="center"> Power Automate
+</p>
 </td>
 <td width="50%"  align="center">
   <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.png" width="75%">
-  <h3 align="center">Filtrage des alertes bébé</h3>
-  <p align="center">Seules les alertes liées aux produits bébés sont conservées</p>
+ 
+  <p align="center">Email Outlook</p>
 </td>
 </tr>
 </table>
