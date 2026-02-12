@@ -98,7 +98,7 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 
 #### 🚀 Installation
 1. Télécharger les fichiers `.zip` depuis le dossier **flows**
-2. Aller dans **Power Automate → Solutions → Importer**
+2. Aller dans **Power Automate → My Flows → Import Package (Legacy)**
 3. Mettre à jour les connexions (RSS, Outlook…)
 4. Modifier les adresses e-mail de réception
 
