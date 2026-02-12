@@ -36,17 +36,13 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
   <ul style="border-left: 4px solid #4CC9F0; padding-left: 15px; list-style:none;">
 
 <li style="margin-bottom:15px;">
-  <strong style="color:#0078D4;">Lecture RSS : </strong> Récupération automatique et régulière du flux officiel Lecture RSS Récupération du flux RSSRécupération automatique du flux officiel RappelConso.<strong>RappelConso</strong>.
+  <strong style="color:#0078D4;">Lecture RSS : </strong> Récupération automatique à chaque nouveaux rappel du produit pour Bébé.
 </li>
 
-<li style="margin-bottom:15px;">
-  <strong style="color:#5C2D91;"> Filtrage intelligent: </strong>
-  Analyse des titres et descriptions afin d’identifier uniquement les rappels liés aux <strong>produits pour bébés</strong>Filtrage intelligentFiltrage des rappels liés aux produits bébés Détection des rappels liés aux produits destinés aux bébés..
-</li>
 
 <li style="margin-bottom:5px;">
   <strong style="color:#4CC9F0;">Email HTML :</strong>
-  Génération et envoi d’un e‑mail HTML clair, structuré et lisible sur mobile.Email HTMLEnvoi d’un e-mail HTML personnalisé >Envoi d’une notification claire et responsive.
+  Génération et envoi d’un e‑mail d'alerte personnalisé en HTML avec intégration d'un logo en base64.
 </li>
 
   </ul>
