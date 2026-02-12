@@ -72,13 +72,9 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 <tr>
 <td width="50%"  align="center"> 
   <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.png" width="75%" >
-  <p align="center"> Power Automate
-</p>
 </td>
 <td width="50%"  align="center">
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.png" width="75%">
- 
-  <p align="center">Email Outlook</p>
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Mail.png" width="65%">
 </td>
 </tr>
 </table>
