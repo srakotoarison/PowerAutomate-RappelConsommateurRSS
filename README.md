@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.png" width="80px" />
+   <img src="https://github.com/srakotoarison/image/blob/main/PowerAutomate_scalable.svg" width="80px" />
 
 </p>
 
