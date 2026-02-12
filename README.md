@@ -107,6 +107,6 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels ous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.N’hésitez pas à partager vos idées !
 
 <p align="center">
-  Développé avec ❤️ par Sammy —  <a href="#">Voir mes autres projets</a>
+  Développé avec ❤️ par Sammy
 </p>
 
