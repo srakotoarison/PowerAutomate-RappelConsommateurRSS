@@ -12,7 +12,6 @@ Protéger nos tout‑petits : Surveillance automatique des rappels Conso </h2>
 <p align="center">Une solution low-code basée sur Power Automate et pensée pour la tranquillité d'esprit des parents. Automatisation Power Automate pour surveiller les rappels RappelConso du site https://rappel.conso.gouv.fr/ Automatiser la veille des rappels produits pour bébés. Ce projet montre comment le low‑code peut simplifier la vie de parents.</p>
 
 <br>
-      <img src="Logo - RappelConso.png" width="125px" />
 
 #### Contexte
 Avec la multiplication des rappels de produits pour bébés — notamment certains lots de laits infantiles comme Gallia ou Guigoz — j’ai réalisé, en tant que jeune parent, combien il est essentiel d’être informé rapidement et de manière fiable. La sécurité des tout‑petits ne laisse aucune place au hasard, et manquer une alerte peut avoir des conséquences importantes.
@@ -61,7 +60,7 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 
 
 
-#### 📸 Aperçus des flux Power Automate
+#### 📸 Aperçus du flux Power Automate
 
 <div align="center" style="padding:20px; border:1px solid #ddd; border-radius:10px;">
   <p></p>
@@ -72,7 +71,7 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 <table>
 <tr>
 <td width="50%"  align="center"> 
-  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.png" width="75%">
+  <img src="https://github.com/srakotoarison/PowerAutomate-RappelConsommateurRSS/blob/main/Flow.png" width="75%" >
   <h3 align="center">Récupération du flux RSS</h3>
   <p align="center">Le flux récupère automatiquement les alertes RappelConso</p>
 </td>
@@ -98,7 +97,6 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 3. Mettre à jour les connexions (RSS, Outlook…)
 4. Modifier les adresses e-mail de réception
 
---
 #### 💬 Suggestions et améliorations
 Vous pouvez adapter le flux, ajouter des conditions, changer l’HTML ou étendre l'alerte à d’autres types de rappels ous pouvez ajouter d’autres filtres (allergènes, jouets, puériculture…).Vous pouvez adapter ce flux pour d’autres types d’alertes RappelConso.N’hésitez pas à partager vos idées !
 
