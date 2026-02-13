@@ -91,7 +91,7 @@ Une solution simple, mais qui apporte un vrai sentiment de sécurité au quotidi
 4. Modifier les adresses e-mail de réception
 
 #### 💬 Suggestions et améliorations
- Vous pouvez adapter ce flux : ajouter des conditions, modifier le template HTML, étendre les alertes à d’autres types de rappels (allergènes, jouets, puériculture, etc.), ou encore ajouter des filtres personnalisés. Ce flux peut aussi être adapté pour d’autres types d’alertes RappelConso. N’hésitez pas à partager vos idées et améliorations !
+ Vous pouvez adapter ce flux : ajouter des conditions, modifier le template HTML, étendre les alertes à d’autres types de rappels (allergènes, jouets, puériculture, etc.), ou encore ajouter des filtres personnalisés. Ce flux peut aussi être adapté pour d’autres types d’alertes RSS. N’hésitez pas à partager vos idées et améliorations !
 
 
 <p align="center">
